@@ -1,3 +1,7 @@
-# Деплой приложения на сервер с использованием pm2
+# Доступ к проекту
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+| Компонент  | Адрес                                      |
+|------------|--------------------------------------------|
+| IP сервера | 158.160.169.15                             |
+| Frontend   | [https://double-seven.nomorepartiessbs.ru](https://double-seven.nomorepartiessbs.ru) |
+| Backend    | [https://api.double-seven.nomorepartiessbs.ru](https://api.double-seven.nomorepartiessbs.ru) |
